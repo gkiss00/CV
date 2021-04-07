@@ -2,7 +2,7 @@
 function Formation() {
     return (
         <div>
-            <h2>Formation</h2>
+            <h2>Formations</h2>
             <div className="formation-div">
                 <h3>Informatique de gestion</h3>
                 <div className="formation-subdiv">
